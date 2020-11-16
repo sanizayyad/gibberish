@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_name" translatable="false">grouped channel name</string>
+    <string name="default_notification_channel_id" translatable="false">default_notification_channel_id</string>
+    <string name="notification_channel_description" translatable="false">grouped channel description</string>
+
+</resources>
